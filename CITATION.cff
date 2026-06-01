@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use Discopilot in academic work, please cite it as below."
+title: "Discopilot"
+abstract: "A Discord bot that records voice channel conversations with built-in consent management, real-time captions, and AI-powered meeting recap."
+type: software
+authors:
+  - family-names: Grassetto
+    given-names: Nico
+repository-code: "https://github.com/NicoGrassetto/buddy"
+url: "https://github.com/NicoGrassetto/buddy"
+license: AGPL-3.0-only
+version: "0.1.0-alpha"
+date-released: "2026-06-01"
+keywords:
+  - discord
+  - discord-bot
+  - voice
+  - transcription
+  - meeting-recap

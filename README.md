@@ -25,4 +25,4 @@ npm start
 
 ## License
 
-ISC
+[AGPL-3.0](LICENSE) © Nico Grassetto
