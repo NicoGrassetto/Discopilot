@@ -27,6 +27,14 @@ Create a `.env` file with your Discord bot credentials, then start the bot:
 npm start
 ```
 
+## Disclaimer
+
+Discopilot is an independent, community-driven project. It is not affiliated with, endorsed by, sponsored by, or in any way officially connected to Microsoft Corporation, Discord Inc., or any of their subsidiaries or affiliates. All product names, logos, and brands — including "Microsoft", "Teams", "Copilot", and "Discord" — are property of their respective owners and are used here for descriptive and comparative purposes only.
+
+Discopilot can record, transcribe, and process voice conversations. You are solely responsible for complying with all applicable laws and regulations in your jurisdiction, including consent, wiretapping, privacy, and data-protection laws (e.g., GDPR, CCPA, two-party consent statutes). The maintainers accept no liability for misuse.
+
+The software is provided "AS IS", without warranty of any kind, express or implied. See the [LICENSE](LICENSE) for full terms.
+
 ## License
 
 [AGPL-3.0](LICENSE) © Nico Grassetto
