@@ -1,4 +1,4 @@
-# Buddy - Discord Voice Recording Bot
+# Discopilot - your Copilot for Discord
 
 A Discord bot that records voice channel conversations with built-in consent management.
 
