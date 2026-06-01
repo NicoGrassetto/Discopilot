@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use Discopilot in academic work, please cite it as below."
 title: "Discopilot"
-abstract: "A Discord bot that records voice channel conversations with built-in consent management, real-time captions, and AI-powered meeting recap."
+abstract: "Discopilot brings the Microsoft Teams Copilot experience to Discord — natively. It records voice conversations with built-in consent, transcribes and translates in real time, recaps meetings, and answers questions grounded in your server's data, all through Discord's native UX."
 type: software
 authors:
   - family-names: Grassetto
