@@ -5,6 +5,16 @@
 <h1 align="center">Discopilot</h1>
 <p align="center">Your Copilot for Discord</p>
 
+- [x] Suggested Replies.
+- [x] Live voice chat captions and transcript.
+- [x] Real-time translation.
+- [x] Intelligent recap.
+- [x] Speaker, chapter, and voice chat markers.
+- [x] Ask questions about voice call.
+- [x] Copilot in Discord.
+- [x] AI-powered web grounding.
+- [x] Discord server grounding.
+
 ## Overview
 
 Discopilot brings the Microsoft Teams Copilot experience to Discord — natively.
